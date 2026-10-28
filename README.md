@@ -153,6 +153,9 @@ This work introduces a biometry-centric evaluation perspective for fetal ultraso
 
 ---
 
+Dataset Link - https://doi.org/10.5281/zenodo.1322001
+Comparison of Other models - https://github.com/Yashasvikhatri9/Fetal-head/tree/main/comparison_results
+
 ## Future Work
 
 * Cross-dataset validation
